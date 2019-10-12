@@ -1,0 +1,3 @@
+github.com/esonlin/Signature v0.0.0-20191008115103-7aa061841c81 h1:sVt9BHKnIisJXhtLwJulhZjJAeDng2wOGwQQ1vYI+Ac=
+github.com/mitchellh/mapstructure v1.1.2 h1:fmNYVwqnSfB9mZU6OS2O6GsXM+wcskZDuKQzvN1EDeE=
+github.com/mitchellh/mapstructure v1.1.2/go.mod h1:FVVH3fgwuzCH5S8UJGiWEs2h04kUh9fWfEaFds41c1Y=
